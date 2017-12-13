@@ -1,5 +1,7 @@
 # Unity-Global_Illumination_Demo
 
+![img](imgs/Box.gif)
+
 Box scene with GI:
 
 ![img](imgs/1.jpg)
